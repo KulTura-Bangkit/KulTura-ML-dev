@@ -1,1 +1,1 @@
-Mdoel sementara
+Model sementara
