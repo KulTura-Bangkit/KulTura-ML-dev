@@ -36,7 +36,7 @@ def topthree(predictions, labels):
     top_item = list(sorted_dict_desc.keys())[:3]
     top_values = list(sorted_dict_desc.values())[:3]
 
-    top_values = [int(x) for x in top_values]
+    top_values = [int(x*100) for x in top_values]
 
     output = {'label 1': top_item[0],
               'percent 1': top_values[0],
