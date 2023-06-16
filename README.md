@@ -4,7 +4,7 @@ An application that is thoughtfully designed to assist users in classifying Indo
 
 ## About this repository
 
-This repository contains our Flask API code that are made using Python. We also haveour .h5 model in this repository.
+This repository contains our Flask API code that are made using Python. We also have our .h5 model in this repository.
 Thesemodels are important in our application to classify the batik, traditional food, and traditional house.
 
 ## Our Machine Learning Team
